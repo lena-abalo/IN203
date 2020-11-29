@@ -132,5 +132,3 @@ int main(int argc , char *argv [] )
     return EXIT_SUCCESS;
 }
 
-// J'obtiens une erreur de type "stack smacking detected" après l'affichage du résultat, je n'ai pas réussi à trouver à 
-//quoi cela est lié.
